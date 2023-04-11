@@ -1,0 +1,15 @@
+C:\Users\H\source\github\Hello World\Hello-World1\bin\Debug\net5.0\Hello-World1.exe
+C:\Users\H\source\github\Hello World\Hello-World1\bin\Debug\net5.0\Hello-World1.deps.json
+C:\Users\H\source\github\Hello World\Hello-World1\bin\Debug\net5.0\Hello-World1.runtimeconfig.json
+C:\Users\H\source\github\Hello World\Hello-World1\bin\Debug\net5.0\Hello-World1.runtimeconfig.dev.json
+C:\Users\H\source\github\Hello World\Hello-World1\bin\Debug\net5.0\Hello-World1.dll
+C:\Users\H\source\github\Hello World\Hello-World1\bin\Debug\net5.0\ref\Hello-World1.dll
+C:\Users\H\source\github\Hello World\Hello-World1\bin\Debug\net5.0\Hello-World1.pdb
+C:\Users\H\source\github\Hello World\Hello-World1\obj\Debug\net5.0\Hello-World1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\github\Hello World\Hello-World1\obj\Debug\net5.0\Hello-World1.AssemblyInfoInputs.cache
+C:\Users\H\source\github\Hello World\Hello-World1\obj\Debug\net5.0\Hello-World1.AssemblyInfo.cs
+C:\Users\H\source\github\Hello World\Hello-World1\obj\Debug\net5.0\Hello-World1.csproj.CoreCompileInputs.cache
+C:\Users\H\source\github\Hello World\Hello-World1\obj\Debug\net5.0\Hello-World1.dll
+C:\Users\H\source\github\Hello World\Hello-World1\obj\Debug\net5.0\ref\Hello-World1.dll
+C:\Users\H\source\github\Hello World\Hello-World1\obj\Debug\net5.0\Hello-World1.pdb
+C:\Users\H\source\github\Hello World\Hello-World1\obj\Debug\net5.0\Hello-World1.genruntimeconfig.cache
